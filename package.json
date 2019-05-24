@@ -1,0 +1,13 @@
+{
+  "id": "chat",
+  "name": "Nexient Chat",
+  "version": "0.0.1",
+  "description": "Nexient Chat for Franz",
+  "main": "index.js",
+  "author": "jmenke@nexient.com",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.nexient.com",
+    "hasNotificationSound": true
+  }
+}
